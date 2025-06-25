@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Calendar } from "./components/Calendar";
-import { EventModal } from "./components/Eventmodal";
+import { EventModal } from "./components/EventModal";
 
 const staticEvents = [
   {
