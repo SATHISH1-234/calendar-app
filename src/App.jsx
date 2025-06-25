@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Calendar } from "./components/calendar";
+import { Calendar } from "./components/Calendar";
 import { EventModal } from "./components/Eventmodal";
 
 const staticEvents = [
