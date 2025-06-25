@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { ChevronLeft, ChevronRight, CalendarIcon, Plus } from "lucide-react";
 import { Button } from "./ui/Button";
 import { Card } from "./ui/Card";
-import { EventCard } from "./Eventcard";
+import { EventCard } from "./EventCard";
 import { DatePicker, Modal, Input, TimePicker, Select } from "antd";
 import dayjs from "dayjs";
 import "antd/dist/reset.css";
